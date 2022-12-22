@@ -1,7 +1,7 @@
 # test-pages
 test github pages
 
-```
+```c
 #include <stdio.h>
 
 /* an array of unspecified size of pointers
